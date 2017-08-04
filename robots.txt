@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /css
+Disallow: /js
+Disallow: /fonts
+Host: https://reformas-premia-de-mar.github.io
+Sitemap: https://reformas-premia-de-mar.github.io/sitemap.xml
